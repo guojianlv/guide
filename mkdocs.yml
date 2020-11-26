@@ -16,6 +16,8 @@ theme:
     primary: blue
     accent: cyan
   plugins:
-  - search:
+    - search:
       lang: ja
+  features:
+    - navigation.expand
   
