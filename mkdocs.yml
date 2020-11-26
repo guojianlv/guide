@@ -20,10 +20,10 @@ extra_javascript:
 theme:
   name: material
   language: zh
-  logo: assets/img/logo.png
+  logo: assets/img/logo_w.png
   palette:
     primary: blue
-    accent: cyan
+    accent: blue
   plugins:
     - search:
       lang: ja
