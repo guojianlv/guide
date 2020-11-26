@@ -1,0 +1,21 @@
+site_name: 文档构建指南
+
+nav:
+  - '概述': index.md
+  - '安装': install.md
+  - '编写文档':
+    - '使用Markdown编写文档': writting_docs/writting_in_markdown.md
+    - '添加图片': writting_docs/uploading_images.md
+
+
+theme:
+  name: material
+  language: zh
+  logo: assets/img/logo.png
+  palette:
+    primary: blue
+    accent: cyan
+  plugins:
+  - search:
+      lang: ja
+  
