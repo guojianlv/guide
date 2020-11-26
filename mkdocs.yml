@@ -7,6 +7,15 @@ nav:
     - '使用Markdown编写文档': writting_docs/writting_in_markdown.md
     - '添加图片': writting_docs/uploading_images.md
 
+copyright: Copyright &copy; 2020 Allwinner Tech
+
+
+extra_css:
+  - assets/css/style.css
+
+extra_javascript:
+  - assets/js/script.js
+
 
 theme:
   name: material
